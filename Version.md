@@ -6,7 +6,7 @@
 ### 3rd             Change - Minor updates and hotfixes
 
 ## Current Version
-1.0.1
+1.0.2
 
 ## Version
 	2023-02-01		Version 1.0.0
@@ -16,3 +16,7 @@
 	2023-02-04		Version 1.0.1
 
 				Continued learning the tutorial
+
+	2923-02-06		Version 1.0.2
+
+				Finished tutorial
