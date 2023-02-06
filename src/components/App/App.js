@@ -10,7 +10,6 @@ const formReducer = (state, event) => {
       'gift-wrap': false,
     }
   }
-
   return {
     ...state,
     [event.name]: event.value
